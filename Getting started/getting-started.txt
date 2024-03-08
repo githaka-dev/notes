@@ -1,0 +1,10 @@
+Getting started
+The modules within address matters beyond the confines of web development. Despite this, they come in handy
+to learners exploring client-side web development.
+
+Module contents
+1. Soft skills
+   Attitude, research and collaboration. Know how to harness their power.
+2. Environment setup
+   Get aquainted with the development toolbox.
+   
