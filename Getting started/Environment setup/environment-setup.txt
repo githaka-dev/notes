@@ -1,0 +1,27 @@
+Environment setup
+This module illustrates how to setup your computer to prepare for web development.
+1. Computer basics
+   a. You should be able to power on a computer, sign in using an account and connect to the internet.
+   b. You should know how to use system control devices such as the keyboard, mouse and other pointing devices.
+   c. You should know how to install software.
+
+2. File systems
+   a. Know about file explorers
+   b. Know how folders are structured
+   c. Learn file naming techniques
+   d. Learn best practices on file management
+   e. Learn to create, move and delete files
+   f. Learn to search files and folders
+   g. Learn to deal with extensions
+   h. Learn how file types are associated with applications
+
+3. Command line basics
+   a. Understand the power of the command line
+   b. Know how to access the commandline in different operating systems
+   c. Get some tips on basic commands
+
+4. Code editors
+   Know about editors. What editors are out there?
+   1. Binary file editors e.g word
+   2. Default OS editors e.g Notepad on windows
+   3. 
