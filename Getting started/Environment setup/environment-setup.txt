@@ -21,7 +21,21 @@ This module illustrates how to setup your computer to prepare for web developmen
    c. Get some tips on basic commands
 
 4. Code editors
-   Know about editors. What editors are out there?
-   1. Binary file editors e.g word
-   2. Default OS editors e.g Notepad on windows
-   3. 
+   1. Know about editors. What editors are out there?
+      a. Binary file editors e.g word
+      b. Default OS editors e.g Notepad on windows
+      c. Hybrid editors eg vscode or sublime text
+      d. IDE's such as visual studio, netbeans, webstorm
+   2. Learn what code editor can do for you
+      a. Open and edit code files
+      b. Syntax highlighting
+      c. Auto indentation and other syntax issues
+      d. Code completion assistance
+      e. Find and replace and use od regular expressions
+      f. Integration with version control
+   3. Customize yourr code editor with extensions
+      a. Language specific extensions for code completion, syntax highlighting, linting debugging
+      b. Git version control extentions
+      c. Themes/color schemes
+      d. AI powered code suggestions e.g gitHub copilot.
+      
