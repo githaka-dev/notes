@@ -1,0 +1,145 @@
+Soft skills
+This module covers traits to consider while venturing into the industry. They come in handy while developing
+attitudes towards learning, researching and collaborating to increase chances of getting hired.
+
+1. Constant learning mindset
+   Persistent learning is vital considering the constant evolution of the web. There is need to keep in touch
+   with emmerging technology. Here are some tips that would help.
+   a. Form a habbit of regular reading of technical news, blogs and browser release notes.
+   b. Read broadly and conduct small research projects.
+   c. Spare some learning time to spend in the aquisition of new skills.
+   d. Be curious.
+
+   Recommended learning sites are as follows:
+   a. MDN
+   b. CSS Tricks
+   c. Dev
+   d. freeCodeCamp
+   e. A List Apart
+   f. Smashing Magazine
+   g. Code Cademy
+
+   Note: Apart from the sites listed above, feel free to explore.
+
+2. Open to embracing failure
+   If things seem under control, you are just not going fast enough (Mario Andretti). Shun the fear of making
+   mistakes and take advantage of the lessons to be learned despite this unpleasant/crude/ego-murdering technique
+   of trial and error. To achieve maximum utility;
+   a. Birds of the same feather flock together. Find more people in the same line, they are going through the
+      same challenges you are. 
+
+3. Effective research
+   Solution searching is a major part of a deveoper's career. Therefore, refining web surfing/problem 
+   solving skills can never grow old. These skills include:
+   a. Consulting the documentation
+      When stuck, check with documentation first before bothering yourself or coleages. In addition, accustom
+      to the kinds of documentation below:
+      1. Tutorials
+         These are learning-oriented lessons that take learners through steps to complete a task. 
+      2. How-to guides
+         They are goal-oriented recipes or directions to achieve a specific end.
+      3. Reference guides
+         These are information-oriented descriptions of software and how to use it.
+      4. Explanations
+         These are understanding-oriented descriptions to clarify specific topics. They broaden the documentation's
+         coverage.
+   b. Understanding search engines
+      Regular browsing will only get you so far. If there is need to get futher, embrace the following advanced methods:
+      1. Exact phrase
+         To get unadulterated results, quote your search. For example, "search".
+      2. Exclude terms
+         For refined results, add a minus followed by a filter parameter. For example, search-filter.
+      3. Either OR 
+         When exploring possibilities, adding "OR" followed by an alternative yields results for either, both or none.For example, 
+         search OR alternative.
+      4. Synonym search
+         To target a word and closely affiliated words, use word ~ search.
+      5. Search within a site
+         To filter results targeting a specific site, use site:site.com search.
+      6. The power of the asterisk
+         If you forgot a word in a search phrase, you can add an asterisk in place of the word. The search engine will automatically
+         fill the possible word. For example, the advantages and * of coding. A possible word in place of an asterisk is
+         disadvantages.
+      7. Search between two values
+         Sometimes we want results within a specific range. For example "search 2019.. 2020"
+      8. Search for something within the body, title or url of a page
+         For example, inurl:search, intitle:search and intext:search.
+      9. Search for related sites
+         For example, related:wikipedia
+      10. Combination
+         You can combine the above techniques to get refined results.
+   c. Chosing valid information sources
+      Sourcing information from specific sites such as stack overflow for developers ensures maximum utility and saves time.
+      In addition, timelines are vital in solution finding considering the constantly changing technologies. A most recent answer
+      does the justice.
+   d. Effective socialization
+      Connecting with folks of the same feather be it in online or local communities is of immense help in solution finding. As 
+      folks give back to the community, you stand a chance to benefit from the community and also for you to reciprocate. This 
+      ensures the cause continues.
+   e. Taking advantage of giants
+      If you have a mentor, carefully ask precise questions to squeeze as much information as possible in the limited time
+      you might have.
+   f. Rubber ducking
+      Jailbreak your thoughts and embrace madness. Find a companion rubber duck to consult when stuck. Your problems are
+      personal. 
+   g. Artificial Intelligence
+      AI tools are rapidly transforming how developers find solutions online. With their ability to understand problems,
+      we get finer solutions to problems. However, it is important to note that they sometimes yield flawed results
+      because they are not capable of reasoning.
+
+4. Collaboration and teamwork
+   Professionaly, division of labor has always been of assistance by taking advantage of people's stengths and allocating 
+   load effectively. So, in this line of work, you will find youself working with other people. It is consequently crucial 
+   to grasp some of the best practices early on and work into areas that you think you area lacking. Practices include:
+   a. Be empathetic, humble, cooperative and a mediator. Always be polite, respectful and avoid offensive language.
+   b. In peer reviews, practice to deliver feedback constructively and respectifully. When receiving feedback, practice
+      how not to take it personally and focus on areas of concern.
+   c. Practice in pair programming, work in teams on assessments to practice teamwork.
+   d. Practice running projects on a world-class level. Get to know the software development life cycle, how to work
+      with timelines, plans and responsibilities. Pick up some basic project planning skills and tools to be able 
+      to estimate and plan your work/project.
+   e. Aside from work, blog about your career, what roadblocks you face, share your code repositories and get peers to
+      critique your work and give a helping hand to fix issiues in other people's work.
+   f. Join an online space e.g slack or discord. Ask peers for help, share resources and discuss work.
+   g. Know how to ask and answer questions. It is important to know how to do some explaining.
+   h. Help one another. Don't wait until your teacher or senior developer comes along. Mentor one another.
+   i. Observe and learn from experienced folks.
+   j. Join an open-source project to learn and practice your skills.
+
+5. Suceeding in job interviews
+   Technical job interviews can be very demanding for their specific requirements. Here are some few tips:
+   a. Learn effective strategies for job searching e.g
+      1. Attend networking events and job fairs to meet potential employers.
+      2. Keep an inventory of the people you meet and companies you apply to.
+      3. Follow up with any promising leads you get.
+   b. Create a portfolio
+   c. Build a perfect resume
+   d. Get experience - build real projects and contribute to open source.
+   e. Build your online persona
+   f. Use sites like linkedIn to get help with the above
+   g. Practice writing answers for coding and design interview questions
+   h. Compile questions youve been asked in interviews for future Reference
+   i. Be aware of the attributes that hiring managers look for:
+      1. Someone they can get along with
+      2. Positive attitude, respectful, empathetic, constructive
+      3. Open minded and works well in a diverse team with diverse viewpoints
+      4. Able to align for the greater good
+      5. Good communicator and relationship builder
+      6. Tenacious, focused and good problem solver
+      7. Have a good portfolio
+   j. Be patient. Even the best candidates will get rejections from multiple job applications before they
+      land what they want.
+
+6. Workflows and processes
+   To deliver a project, programming is just one factor. To see the bigger picture, get to know the supplementary 
+   factors that make it possible to pull off a project to completion
+   a. Project management tools
+   b. Roles
+
+7. Relevant contexual information
+   To lay a solid foundation and get a better perspective as a developer
+   a. Research the reasons behind technology. Study relevant historical context.
+   b. Study general programming concepts
+      1. Functions
+      2. Loops
+      3. Objects

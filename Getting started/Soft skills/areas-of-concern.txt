@@ -1,0 +1,4 @@
+The following areas need review:
+1. Project planning
+2. The Software Development Life Cycle
+3. How to ask and answer questions
